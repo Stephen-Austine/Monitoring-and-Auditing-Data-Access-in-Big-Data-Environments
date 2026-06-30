@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "monitoring-auditing-data-access"
+version = "1.0.0"
+description = "A professional, simulation-based log monitoring and anomaly detection project for auditing data access in big-data environments"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  "pandas>=2.0.0",
+  "matplotlib>=3.7.0",
+  "openpyxl>=3.0.0",
+  "jupyter>=1.0.0"
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0.0"]
