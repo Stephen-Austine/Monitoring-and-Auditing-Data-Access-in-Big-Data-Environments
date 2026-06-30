@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/28758223/README.md)
 # Monitoring and Auditing Data Access in Big Data Environments
 
-A professional, simulation-based security analytics project that demonstrates how access logs can be transformed into actionable audit insights. The work combines a reproducible Python workflow, an exploratory notebook, a rule-based anomaly detector, and supporting documentation in a structure suitable for GitHub presentation.
+A simulation-based security analytics project that demonstrates how access logs can be transformed into actionable audit insights. The work combines a reproducible Python workflow, an exploratory notebook, a rule-based anomaly detector, and supporting documentation in a structure suitable for GitHub presentation.
 
 ![Project Overview](assets/images/action_distribution.png)
 
